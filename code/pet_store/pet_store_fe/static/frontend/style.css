@@ -1,0 +1,169 @@
+.login-form{
+    margin: 0 auto;
+    width: 30%;
+}
+
+.pet-card{
+    width: 20%;
+    margin-bottom: 20px;
+    margin-right: 20px;
+    background-color: #877245;
+    height: 220px;
+    text-align: center;
+}
+
+.pet-card > img{
+    height: 115px;
+}
+
+.pet-gallery-card{
+    margin-bottom: 20px;
+    background-color: #877245;
+    text-align: center;
+}
+
+.pet-cards{
+    width: 850px;
+    display: flex;
+    flex-flow: row;
+    flex-wrap: wrap;
+    margin: 0 auto;
+    padding-top: 30px;
+    margin-bottom: 60px;
+}
+
+.product-details-card{
+    width: 39rem;
+    margin: 0 auto;
+    margin-bottom: 65px;
+}
+
+.product-details-card > img{
+    height: 400px;
+}
+
+.product-details{
+    margin-top: 30px;
+}
+
+.shop-filters{
+    width: 400px;
+    margin: 0 auto;
+}
+
+.footer{
+    height: 60px;
+    background-color: #2c6299;
+}
+
+
+.instagram-logo{
+    background-image: url('/static/images/icons/instagram-logo.svg');
+    width: 50px;
+    display: inline-block;
+    height: 50px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-top: 5px;
+    margin-right: 5px;
+}
+
+.facebook-logo{
+    background-image: url('/static/images/icons/facebook-logo.svg');
+    width: 50px;
+    display: inline-block;
+    height: 50px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-top: 5px;
+    margin-right: 5px;
+}
+
+.logos{
+    text-align: center;
+}
+
+.logo{
+    width: 60px;
+}
+
+.navbar{
+    background-color: #2c6299 !important;
+    font-size: 1.2rem;
+}
+
+html, body, #app, .main, .home, .contacts-main {
+    margin: 0;
+    height: 100%;
+}
+
+#app > div{
+    margin: 0;
+    height: 100%;
+}
+
+.home{
+    background-image: url('/static/images/background2.jpg');
+    display: flex;
+}
+
+.home-text{
+    font-family: Comic Sans MS;
+    font-size: 2rem;
+    font-weight: 400;
+    line-height: 1.5;
+    text-align: center;
+    width: 50%;
+    margin: 0 auto;
+    padding-top: 2%;
+}
+
+.shop-main, .pets-main{
+    background-image: url('/static/images/background.jpg');
+}
+
+.contacts-main{
+    background-image: url('/static/images/background3.jpg');
+}
+
+.card-link{
+    color: black;
+}
+
+.contacts-text{
+    font-family: Comic Sans MS;
+    text-align: center;
+    padding-top: 2%;
+}
+
+.contacts-text > span{
+    display: block;
+}
+
+.contacts-form{
+    padding-top: 50px;
+    width: 30%;
+    margin: 0 auto;
+}
+
+.cart-main{
+    width: 50%;
+    margin: 0 auto;
+    padding-top: 50px;
+}
+
+.home-left-img{
+    width: 300px;
+    height: 250px;
+    position: absolute;
+    left: 3%;
+    top: 25%;
+}
+
+.home-right-img{
+    width: 300px;
+    height: 250px;
+    position: absolute;
+    right: 3%;
+    top: 25%;
+}

@@ -1,0 +1,282 @@
+[
+{
+    "model": "pet_store_api.product",
+    "pk": 1,
+    "fields": {
+        "animal": "dog",
+        "name": "Sweatshirt",
+        "price": 20,
+        "category": "cl",
+        "picture": "pet_store_fe/static/images/products/dog1.jpg",
+        "size": "xl",
+        "color": "red",
+        "description": "Sweatshirt for big dog, winter"
+    }
+},
+{
+    "model": "pet_store_api.product",
+    "pk": 2,
+    "fields": {
+        "animal": "dog",
+        "name": "Jacket",
+        "price": 25,
+        "category": "cl",
+        "picture": "pet_store_fe/static/images/products/dog2.jpg",
+        "size": "s",
+        "color": "red",
+        "description": "Jacket for small dog, winter"
+    }
+},
+{
+    "model": "pet_store_api.product",
+    "pk": 3,
+    "fields": {
+        "animal": "dog",
+        "name": "Cardigan",
+        "price": 15,
+        "category": "cl",
+        "picture": "pet_store_fe/static/images/products/dog3.jpg",
+        "size": "s",
+        "color": "blue",
+        "description": "Cardigan for small dog, winter"
+    }
+},
+{
+    "model": "pet_store_api.product",
+    "pk": 4,
+    "fields": {
+        "animal": "dog",
+        "name": "Swetaer",
+        "price": 35,
+        "category": "cl",
+        "picture": "pet_store_fe/static/images/products/dog4.jpg",
+        "size": "s",
+        "color": "red",
+        "description": "Sweater for small dog, christmas edition"
+    }
+},
+{
+    "model": "pet_store_api.product",
+    "pk": 5,
+    "fields": {
+        "animal": "dog",
+        "name": "Sweatshirt",
+        "price": 35,
+        "category": "cl",
+        "picture": "pet_store_fe/static/images/products/dog5.jpg",
+        "size": "m",
+        "color": "red",
+        "description": "Sweatshir for middle dog"
+    }
+},
+{
+    "model": "pet_store_api.product",
+    "pk": 6,
+    "fields": {
+        "animal": "dog",
+        "name": "Chain",
+        "price": 35,
+        "category": "acc",
+        "picture": "pet_store_fe/static/images/products/dog6.webp",
+        "size": "m",
+        "color": "gold",
+        "description": "Chain for big boss dog"
+    }
+},
+{
+    "model": "pet_store_api.product",
+    "pk": 7,
+    "fields": {
+        "animal": "dog",
+        "name": "Bandana",
+        "price": 15,
+        "category": "acc",
+        "picture": "pet_store_fe/static/images/products/dog7.jpg",
+        "size": "l",
+        "color": "black",
+        "description": "Bandana with pumpkins"
+    }
+},
+{
+    "model": "pet_store_api.product",
+    "pk": 8,
+    "fields": {
+        "animal": "dog",
+        "name": "Vest",
+        "price": 45,
+        "category": "acc",
+        "picture": "pet_store_fe/static/images/products/dog8.webp",
+        "size": "l",
+        "color": "black/green",
+        "description": "Military vest"
+    }
+},
+{
+    "model": "pet_store_api.product",
+    "pk": 9,
+    "fields": {
+        "animal": "dog",
+        "name": "Hat",
+        "price": 20,
+        "category": "acc",
+        "picture": "pet_store_fe/static/images/products/dog9.jpg",
+        "size": "s",
+        "color": "colorful",
+        "description": "Babushka hat"
+    }
+},
+{
+    "model": "pet_store_api.product",
+    "pk": 10,
+    "fields": {
+        "animal": "dog",
+        "name": "Hat",
+        "price": 10,
+        "category": "acc",
+        "picture": "pet_store_fe/static/images/products/dog10.jpg",
+        "size": "s",
+        "color": "black",
+        "description": "Skull hat"
+    }
+},
+{
+    "model": "pet_store_api.product",
+    "pk": 11,
+    "fields": {
+        "animal": "cat",
+        "name": "Scratcher",
+        "price": 10,
+        "category": "acc",
+        "picture": "pet_store_fe/static/images/products/cat1.jpg",
+        "size": "s",
+        "color": "black",
+        "description": "Cat scratcher"
+    }
+},
+{
+    "model": "pet_store_api.product",
+    "pk": 12,
+    "fields": {
+        "animal": "cat",
+        "name": "Crown",
+        "price": 30,
+        "category": "acc",
+        "picture": "pet_store_fe/static/images/products/cat2.jpg",
+        "size": "s",
+        "color": "pink",
+        "description": "Crown fo cat"
+    }
+},
+{
+    "model": "pet_store_api.product",
+    "pk": 13,
+    "fields": {
+        "animal": "cat",
+        "name": "Crown",
+        "price": 50,
+        "category": "acc",
+        "picture": "pet_store_fe/static/images/products/cat3.jpg",
+        "size": "s",
+        "color": "gold",
+        "description": "Sungalsses fo cat with UV protection"
+    }
+},
+{
+    "model": "pet_store_api.product",
+    "pk": 14,
+    "fields": {
+        "animal": "cat",
+        "name": "House",
+        "price": 100,
+        "category": "acc",
+        "picture": "pet_store_fe/static/images/products/cat4.jpg",
+        "size": "s",
+        "color": "brown",
+        "description": "Home for cat"
+    }
+},
+{
+    "model": "pet_store_api.product",
+    "pk": 15,
+    "fields": {
+        "animal": "cat",
+        "name": "Scarf",
+        "price": 20,
+        "category": "acc",
+        "picture": "pet_store_fe/static/images/products/cat5.jpg",
+        "size": "s",
+        "color": "brown",
+        "description": "Scarf for cat"
+    }
+},
+{
+    "model": "pet_store_api.product",
+    "pk": 16,
+    "fields": {
+        "animal": "cat",
+        "name": "Cardigan",
+        "price": 30,
+        "category": "cl",
+        "picture": "pet_store_fe/static/images/products/cat6.jpg",
+        "size": "s",
+        "color": "pink",
+        "description": "Cardigan for cat"
+    }
+},
+{
+    "model": "pet_store_api.product",
+    "pk": 17,
+    "fields": {
+        "animal": "cat",
+        "name": "Suit",
+        "price": 45,
+        "category": "cl",
+        "picture": "pet_store_fe/static/images/products/cat7.webp",
+        "size": "s",
+        "color": "blue/yellow",
+        "description": "Suit for british cat"
+    }
+},
+{
+    "model": "pet_store_api.product",
+    "pk": 18,
+    "fields": {
+        "animal": "cat",
+        "name": "Suit",
+        "price": 48,
+        "category": "cl",
+        "picture": "pet_store_fe/static/images/products/cat8.webp",
+        "size": "s",
+        "color": "red",
+        "description": "Chinese suit for cat"
+    }
+},
+{
+    "model": "pet_store_api.product",
+    "pk": 19,
+    "fields": {
+        "animal": "cat",
+        "name": "Suit",
+        "price": 55,
+        "category": "cl",
+        "picture": "pet_store_fe/static/images/products/cat8_6M55dq2.webp",
+        "size": "s",
+        "color": "red",
+        "description": "Christams suit for cat"
+    }
+},
+{
+    "model": "pet_store_api.product",
+    "pk": 20,
+    "fields": {
+        "animal": "cat",
+        "name": "Sweatshirt",
+        "price": 20,
+        "category": "cl",
+        "picture": "pet_store_fe/static/images/products/cat10.webp",
+        "size": "s",
+        "color": "Blue",
+        "description": "Sweatshirt suit for cat"
+    }
+}
+]

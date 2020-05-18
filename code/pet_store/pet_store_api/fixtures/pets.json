@@ -1,0 +1,92 @@
+[
+{
+    "model": "pet_store_api.pet",
+    "pk": 1,
+    "fields": {
+        "breed": "Labrador Retriever",
+        "description": "The Labrador Retriever, Labrador or just Lab, is a medium-large breed of retriever-gun dog. The Labrador is the most popular breed of dog in many nations.",
+        "picture": "pet_store_fe/static/images/pets/pet1.jpg"
+    }
+},
+{
+    "model": "pet_store_api.pet",
+    "pk": 2,
+    "fields": {
+        "breed": "German Shepherd",
+        "description": "The German Shepherd is a breed of medium to large-sized working dog that originated in Germany. In the English language, the breed's officially recognized name is German Shepherd Dog.",
+        "picture": "pet_store_fe/static/images/pets/pet2.jpg"
+    }
+},
+{
+    "model": "pet_store_api.pet",
+    "pk": 3,
+    "fields": {
+        "breed": "Siberian Husky",
+        "description": "The Siberian Husky is a medium-sized working dog breed. The breed belongs to the Spitz genetic family. It is recognizable by its thickly furred double coat, erect triangular ears, and distinctive markings",
+        "picture": "pet_store_fe/static/images/pets/pet3.jpg"
+    }
+},
+{
+    "model": "pet_store_api.pet",
+    "pk": 4,
+    "fields": {
+        "breed": "Bulldog",
+        "description": "The Bulldog, also known as the British Bulldog or English Bulldog, is a medium-sized dog breed. It is a muscular, hefty dog with a wrinkled face and a distinctive pushed-in nose.",
+        "picture": "pet_store_fe/static/images/pets/pet4.jpg"
+    }
+},
+{
+    "model": "pet_store_api.pet",
+    "pk": 6,
+    "fields": {
+        "breed": "Pomeranian",
+        "description": "The Pomeranian is a breed of dog of the Spitz type that is named for the Pomerania region in north-west Poland and north-east Germany in Central Europe.",
+        "picture": "pet_store_fe/static/images/pets/pet5.jpg"
+    }
+},
+{
+    "model": "pet_store_api.pet",
+    "pk": 7,
+    "fields": {
+        "breed": "Pug",
+        "description": "The pug is a breed of dog with physically distinctive features of a wrinkly, short-muzzled face, and curled tail. The breed has a fine, glossy coat that comes in a variety of colours, most often fawn or black, and a compact square body with well-developed muscles.",
+        "picture": "pet_store_fe/static/images/pets/pet6.jpg"
+    }
+},
+{
+    "model": "pet_store_api.pet",
+    "pk": 8,
+    "fields": {
+        "breed": "Poodle",
+        "description": "The Poodle is a formal dog breed that comes in three varieties: Standard Poodle, Miniature Poodle, and Toy Poodle. The origin of the breed is still discussed, with a prominent dispute over whether the poodle descends from Germany as a type of water dog, or from the French Barbet.",
+        "picture": "pet_store_fe/static/images/pets/pet7.jpg"
+    }
+},
+{
+    "model": "pet_store_api.pet",
+    "pk": 9,
+    "fields": {
+        "breed": "Shiba Inu",
+        "description": "The Shiba Inu is a Japanese breed of hunting dog. A small-to-medium breed, it is the smallest of the six original and distinct spitz breeds of dog native to Japan. A small, alert and agile dog that copes very well with mountainous terrain and hiking trails, the Shiba Inu was originally bred for hunting.",
+        "picture": "pet_store_fe/static/images/pets/pet8.jpg"
+    }
+},
+{
+    "model": "pet_store_api.pet",
+    "pk": 10,
+    "fields": {
+        "breed": "Beagle",
+        "description": "The beagle is a breed of small hound that is similar in appearance to the much larger foxhound. The beagle is a scent hound, developed primarily for hunting hare.",
+        "picture": "pet_store_fe/static/images/pets/pet9.jpg"
+    }
+},
+{
+    "model": "pet_store_api.pet",
+    "pk": 11,
+    "fields": {
+        "breed": "American Pit Bull Terrier",
+        "description": "The American Pit Bull Terrier is a purebred dog breed recognized by the United Kennel Club and American Dog Breeders Association, but not the American Kennel Club. It is a medium-sized, intelligent, short-haired dog, of a solid build, whose early ancestors came from the British Isles",
+        "picture": "pet_store_fe/static/images/pets/pet10.jpg"
+    }
+}
+]
